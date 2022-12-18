@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/diseno_logo.xml" value="0.11" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/ic_launcher_spondylus_background.xml" value="0.302" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/ic_logo.xml" value="0.1" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/ic_right.xml" value="0.2125" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/icon_background.xml" value="0.1" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/icon_outer_background.xml" value="0.1" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/indicator_active_background.xml" value="0.1545" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/indicator_inactive_background.xml" value="0.1" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/drawable/view_pager_background.xml" value="0.1" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/layout/activity_web_view.xml" value="0.33" />
+        <entry key="..\:/Windows/Documentos/GitHub/Spondylus/app/src/main/res/layout/onboarding_item_container.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
